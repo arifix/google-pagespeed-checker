@@ -13,7 +13,7 @@ Change Google API key from settings.json.
 - Click on Load Unpacked and select your folder
 
 ## Output
-![google-pagespeed-checker-chrome-extension](https://www.arif-khan.net/project/github/google_pagespeed_checker1.png)
+![google-pagespeed-checker-chrome-extension](https://www.arif-khan.net/project/github/google_pagespeed_checker1.png?a=1)
 ![google-pagespeed-checker-chrome-extension](https://www.arif-khan.net/project/github/google_pagespeed_checker2.png)
 
 ## License
