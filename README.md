@@ -1,5 +1,5 @@
 ## Google PageSpeed Checker(Chrome Extension)
-A chrome extension to check pagespeed of the website from browser tab
+A chrome extension to check Google PageSpeed of the website from browser tab
 
 ## Setup
 Change Google API key from settings.json.
